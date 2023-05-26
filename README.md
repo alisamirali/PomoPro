@@ -11,7 +11,7 @@ To get started with the app, clone the repo:
 
 ```
 $ git clone https://github.com/alisamirali/PomoPro.git
-$ cd NiftyPlace
+$ cd PomoPro
 ```
 
 Then install the dependencies:
